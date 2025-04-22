@@ -11,7 +11,7 @@ A NestJS + TypeORM REST API for managing shared workspaces in multiple locations
 - Swagger API documentation
 - TypeORM migrations and seeders
 - DTO validation with `class-validator`
-- PostgreSQL support (or any TypeORM-compatible DB)
+- MySQL support (or any TypeORM-compatible DB)
 
 ---
 
